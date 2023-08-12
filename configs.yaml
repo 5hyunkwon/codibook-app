@@ -1,0 +1,9 @@
+image_path: '/Users/ohhyunkwon/Documents/2021 study/projects/codibook/data/img'
+model_name: 'resnet152'
+weight_path: '/Users/ohhyunkwon/Documents/study_2023/mlops/weights/codibook/best_weights.pt'
+num_classes: 3
+learning_rate: 0.001
+batch_size:
+  train: 16
+  val: 16
+num_epochs: 30
